@@ -1,0 +1,58 @@
+HTTP/3 200 OK
+content-type: text/css; charset=utf-8
+access-control-allow-origin: *
+timing-allow-origin: *
+link: <https://fonts.gstatic.com>; rel=preconnect; crossorigin
+strict-transport-security: max-age=31536000
+expires: Mon, 18 Apr 2022 19:13:33 GMT
+date: Mon, 18 Apr 2022 19:13:33 GMT
+cache-control: private, max-age=86400
+cross-origin-resource-policy: cross-origin
+cross-origin-opener-policy: same-origin-allow-popups
+content-encoding: gzip
+server: ESF
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+
+HERE YOU CAN CHANGE THE SEPARATOR *
+
+HTTP/2 200 OK
+accept-ranges: bytes
+vary: Accept-Encoding, Origin
+content-encoding: br
+cross-origin-resource-policy: cross-origin
+cross-origin-opener-policy-report-only: same-origin; report-to="youtube"
+report-to: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}
+content-length: 4329
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+server: sffe
+date: Mon, 18 Apr 2022 14:00:17 GMT
+expires: Tue, 18 Apr 2023 14:00:17 GMT
+cache-control: public, max-age=31536000
+last-modified: Sun, 17 Apr 2022 07:12:34 GMT
+content-type: text/javascript
+age: 21718
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+X-Firefox-Spdy: h2
+
+
+HERE YOU CAN CHANGE THE SEPARATOR *
+
+HTTP/2 304 Not Modified
+date: Tue, 19 Apr 2022 03:03:04 GMT
+via: 1.1 varnish
+cache-control: max-age=604800ß
+age: 604782
+x-served-by: cache-lin2290025-LIN
+x-cache: HIT
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+x-cache-hits: 39052
+x-timer: S1650337385.508798,VS0,VE0
+vary: Accept-Encoding,Accept-Encoding
+X-Firefox-Spdy: h2
+
+
