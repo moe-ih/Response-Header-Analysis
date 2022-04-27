@@ -96,7 +96,7 @@ public class ResAyMain {
 				
 				System.out.println("Header Found 	* Access-Control-Allow-Credentials and "
 						+ "Access-Control-Allow-Origin: [Security] which linked to "
-						+ "unsef resourse which may lead to CORS attack ");
+						+ "unsafe resourse which may lead to CORS attack ");
 			}
 			
 			for(var entry : Config.headers.entrySet()) {
